@@ -20,7 +20,7 @@ Every room has objects. Every object has a story. Click something — and the ro
 
 ## 🚀 Live Demo
 
-https://housethatremembers.netlify.app
+https://ahousethatremembers.netlify.app
 
 ## 🗂️ Project Structure
 
